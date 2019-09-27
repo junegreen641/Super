@@ -22,6 +22,11 @@
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+<audio controls>
+   <source src="horse.ogg" type="audio/ogg">
+   <source src="horse.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+</audio> 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
