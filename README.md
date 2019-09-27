@@ -1,6 +1,6 @@
 ## 欢迎来到 王者荣耀！
 
-You can use the [editor on GitHub](https://github.com/junegreen641/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你可以使用 [百度搜索](https://baidu.com/) 寻找你需要的东西.
 
 
 ### 第一关
