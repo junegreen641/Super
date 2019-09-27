@@ -3,16 +3,15 @@
 你可以使用 [百度搜索](https://baidu.com/) 寻找你需要的东西.
 
 
-### 第一关
+### 小贴士！！！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+百度搜索也不是万能的哦！一定要有自己独立的思考！！
 
-```markdown
-Syntax highlighted code block
+使用技巧
 
-# Header 1
-## Header 2
-### Header 3
+# 关键词 + 引号
+## 关键词 + 括号
+### 关键词 + 大括号
 
 - Bulleted
 - List
