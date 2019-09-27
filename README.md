@@ -20,7 +20,7 @@
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![风景](https://github.com/junegreen641/webdesign/blob/master/timg.jpg)
+![Image](https://github.com/junegreen641/webdesign/blob/master/timg.jpg)
 [Link](url) and ![Image](src)
 <audio controls>
    <source src="horse.ogg" type="audio/ogg">
