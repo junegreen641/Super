@@ -1,6 +1,6 @@
 ## 欢迎来到 王者荣耀！
 
-你可以使用 **[百度搜索](https://baidu.com/) **  或者[微软必应](https://cn.bing.com/)如果你有条件的话，还可以[Google一下](https://google.cn)寻找你需要的东西.
+你可以使用 **[百度搜索](https://baidu.com/)**  或者**微软必应](https://cn.bing.com/)** 如果你有条件的话，还可以[Google一下](https://google.cn)寻找你需要的东西.
 
 
 ### 小贴士！！！
