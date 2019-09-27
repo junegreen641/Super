@@ -20,7 +20,7 @@
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of cat](https://octodex.github.com/images/cat.png)
 [Link](url) and ![Image](src)
 <audio controls>
    <source src="horse.ogg" type="audio/ogg">
